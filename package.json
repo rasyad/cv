@@ -1,17 +1,17 @@
 {
-  "name": "cv",
+  "name": "suddi.github.io",
   "private": true,
-  "description": "Sudharshan Ravindran personal site modified by Reno",
+  "description": "Sudharshan Ravindran personal site",
   "version": "1.2.2",
-  "homepage": "https://rasyad.github.io/cv",
+  "homepage": "https://suddi.github.io",
   "author": {
     "name": "Sudharshan Ravindran",
     "email": "suddi@mail.io",
-    "url": "https://rasyad.github.io/cv"
+    "url": "https://suddi.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rasyad/cv"
+    "url": "https://github.com/suddi/suddi.github.io"
   },
   "bugs": {
     "url": "https://github.com/suddi/suddi.github.io/issues"
