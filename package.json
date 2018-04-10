@@ -7,19 +7,19 @@
   "author": {
     "name": "Sudharshan Ravindran",
     "email": "suddi@mail.io",
-    "url": "https://suddi.github.io"
+    "url": "https://rasyad.github.io/cv"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suddi/suddi.github.io"
+    "url": "https://github.com/rasyad/cv"
   },
   "bugs": {
-    "url": "https://github.com/suddi/suddi.github.io/issues"
+    "url": "https://github.com/rasyad/cv/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/suddi/suddi.github.io/LICENSE"
+      "url": "https://github.com/rasyad/cv/LICENSE"
     }
   ],
   "engines": {
