@@ -1,0 +1,298 @@
+{
+    "basics": {
+        "name": "Reno Rasyad",
+        "label": "<PROFESSION>",
+        "picture": "/public/images/reno.jpg",
+        "email": "reno@alumni.itb.ac.id",
+        "phone": "0856-2173-080",
+        "website": "<WEBSITE>",
+        "summary": [
+            "A person who loves to swim and read fiction books. Have interests in web design, UI/UX design."
+            
+        ],
+        "location": {
+            "address": "<ADDRESS>",
+            "postalCode": "<POSTAL_CODE>",
+            "city": "Bandung",
+            "countryCode": "Indonesia",
+            "region": "<REGION>"
+        },
+        "profiles": [
+            {
+                "network": "email",
+                "username": "<USERNAME>",
+                "url": "mailto:reno@alumni.itb.ac.id"
+            },
+            {
+                "network": "linkedin",
+                "username": "<USERNAME>",
+                "url": "https://www.linkedin.com/in/reno-rasyad-8b871472/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "PT. INTI",
+            "position": "Intern",
+            "website": "inti.co.id",
+            "startDate": "2014-06",
+            "endDate": "2014-07",
+            "summary": "Designing relational database for online recruitment website",
+            "highlights": [
+                
+                
+                
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Institut Teknologi Bandung",
+            "area": "Computer Science/Informatics",
+            "studyType": "<STUDY_TYPE>",
+            "startDate": "2011-08",
+            "endDate": "2017-10",
+            "gpa": "2.73",
+            "summary": "",
+            "courses": [
+                "Final Project: Automatic and Real Time Face Recognition Application for Attendance System using Webcam and OpenCV"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "<AWARD_TITLE>",
+            "date": "<DATE>",
+            "awarder": "<AWARDER>",
+            "summary": "<SUMMARY>"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Sawarna Beach",
+            "publisher": "Reno",
+            "category": "beach",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Sawarna is located in west of Pelabuhan Ratu",
+            "image": {
+                "modal": "/public/images/sawarna.jpg",
+                "thumb": "/public/images/thumbs/sawarna.jpg"
+            },
+            "keywords": [
+                "beach",
+                "sawarna"
+            ]
+        },
+        {
+            "name": "Situ Cileunca",
+            "publisher": "Reno",
+            "category": "lake",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Situ Cileunca is located in Pangalengan, Kabupaten Bandung",
+            "image": {
+                "modal": "/public/images/cileunca.jpg",
+                "thumb": "/public/images/thumbs/cileunca.jpg"
+            },
+            "keywords": [
+                "lake",
+                "cileunca"
+            ]
+        },
+        {
+            "name": "Situ Cileunca",
+            "publisher": "Reno",
+            "category": "lake",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Situ Cileunca is located in Pangalengan, Kabupaten Bandung",
+            "image": {
+                "modal": "/public/images/cileunca2.jpg",
+                "thumb": "/public/images/thumbs/cileunca2.jpg"
+            },
+            "keywords": [
+                "lake",
+                "cileunca"
+            ]
+        },
+        {
+            "name": "Kebun Teh Sukawana",
+            "publisher": "Reno",
+            "category": "plantation",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Kebun Teh Sukawana is located in Cisarua, north of Bandung",
+            "image": {
+                "modal": "/public/images/sukawana2.jpg",
+                "thumb": "/public/images/thumbs/sukawana2.jpg"
+            },
+            "keywords": [
+                "tea",
+                "plantation"
+            ]
+        },
+        {
+            "name": "Kebun Teh Sukawana",
+            "publisher": "Reno",
+            "category": "plantation",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Kebun Teh Sukawana is located in Cisarua, north of Bandung",
+            "image": {
+                "modal": "/public/images/sukawana1.jpg",
+                "thumb": "/public/images/thumbs/sukawana1.jpg"
+            },
+            "keywords": [
+                "tea",
+                "plantation"
+            ]
+        },
+        {
+            "name": "Kebun Teh Sukawana",
+            "publisher": "Reno",
+            "category": "plantation",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "s",
+            "summary": "Kebun Teh Sukawana is located in Cisarua, north of Bandung",
+            "image": {
+                "modal": "/public/images/sukawana3.jpg",
+                "thumb": "/public/images/thumbs/sukawana3.jpg"
+            },
+            "keywords": [
+                "tea",
+                "plantation"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages",
+            "description": [
+               
+            ],
+            "skillDetails": [
+                {
+                    "name": "C/C++",
+                    "level": "85",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Java",
+                    "level": "80",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "HTML/CSS",
+                    "level": "75",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Javascript",
+                    "level": "70",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": " Languages",
+            "description": [
+               
+            ],
+            "skillDetails": [
+                {
+                    "name": "Indonesian",
+                    "level": "95",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "English",
+                    "level": "90",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Sundanese",
+                    "level": "85",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Japanese",
+                    "level": "60",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "<LANGUAGE_LEVEL>"
+        }
+    ],
+    "interests": [
+        {
+            "name": "<INTEREST_NAME>",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "John Adams",
+            "position": "<POSITION>",
+            "company": "<COMPANY>",
+            "reference": "Every problem is an opportunity in disguise"
+        }
+    ]
+
+}
