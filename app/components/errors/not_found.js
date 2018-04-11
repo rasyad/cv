@@ -9,7 +9,7 @@ const NotFound = React.createClass({
                 404: It appears you have lost your way
                 <br/>
                 <span>
-                    Return to safety <a href='/'>here.</a>
+                    Return to safety heh okay <a href='/'>here.</a>
                 </span>
             </div>
         );
